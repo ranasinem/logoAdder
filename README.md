@@ -2,7 +2,7 @@
 simple logo adder with python
 
 
-**What is the aim of this project ?
+**What is the aim of this project ?**
 
 The aim of this project is to combine two desired photos and print them out in series. 
 
